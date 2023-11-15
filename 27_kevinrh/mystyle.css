@@ -1,0 +1,29 @@
+.row {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.navbar {
+    list-style-type: none;
+    overflow: hidden;
+    top: 0;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+
+.hed {
+    padding-top: 40px;
+}
+
+article {
+    padding-top: 40px;
+}
+
+.cnt {
+    padding-top: 40px;
+}
+
+.carousel {
+    margin-left: 20px;
+}
